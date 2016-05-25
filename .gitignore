@@ -1,0 +1,6 @@
+# build folder
+build
+
+# node specific
+npm-debug.log*
+node_modules
